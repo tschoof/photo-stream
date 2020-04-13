@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Photostream
+title: Timm Schoof's Photostream
 email: hello@timmschoof.com
 author:
   name: Timm Schoof
